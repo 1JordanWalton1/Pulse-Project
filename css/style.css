@@ -6844,6 +6844,10 @@ button.swiper-pagination-bullet {
 }
 
 @media (max-width: 25em) {
+  #scrollTop {
+    right: 35px;
+  }
+
   .popup__content {
     max-width: 250px;
   }
@@ -6869,6 +6873,15 @@ button.swiper-pagination-bullet {
 }
 
 @media (max-width: 47.99875em) {
+  #scrollTop {
+    right: 50px;
+  }
+
+  #scrollTop img {
+    width: 1.875rem;
+    height: 1.875rem;
+  }
+
   .benefits__items {
     margin: 0 -15px;
   }
