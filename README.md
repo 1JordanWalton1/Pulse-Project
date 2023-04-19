@@ -1,20 +1,17 @@
 # Pulse-Project
 
-![logo](logo.png)
-
 Сайт производителя пульсометров.
 
-Сделал: Jordan Walton
+Сделал: <a href="https://github.com/1JordanWalton1">Jordan Walton</a>
 
 ## Демонстрация
 
 ![screenshot](screenshot.png)
 
-Ссылка на сайт: [ТЫК](https://pulse-project.com)
+Ссылка на сайт: <a href="https://1jordanwalton1.github.io/Pulse-Project/home.html">Тык</a>
 
 ## Технологии
 
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
